@@ -1,2 +1,7 @@
 # All files cached by Kate
 *~
+# Heavy cached data by python
+*__*__/
+*.f2py_jit/
+*.pantarei/
+
